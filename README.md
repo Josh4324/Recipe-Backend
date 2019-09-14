@@ -1,4 +1,4 @@
-## `node server.js` pr `nodemon server.js`
+## `node server.js` or `nodemon server.js`
 
 Runs the server in the development mode.<br>
 
